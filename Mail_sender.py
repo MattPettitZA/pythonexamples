@@ -34,3 +34,4 @@ def main():
     login()
     send()
     server.quit()
+main()
